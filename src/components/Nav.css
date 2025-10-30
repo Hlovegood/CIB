@@ -1,0 +1,15 @@
+.nav{
+    background: #032D62;
+    padding: 24px 158px 24px 166px;
+    display: flex;
+    flex-direction: row;
+    gap: 48px;
+    color: #FFF;
+    align-items: center;
+    
+}
+
+.img{
+    width: 109px;
+    height: 33px;
+}
