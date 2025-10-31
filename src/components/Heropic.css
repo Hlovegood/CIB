@@ -1,0 +1,21 @@
+.Hero-sec{
+    width: 100%;
+}
+
+.hero-cont{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.hero-txt{
+    position: absolute;
+    color: #FFF;
+    padding-left: 400px;
+    font-size: 24px;
+}
+
+.hero-r8y{
+    width: 60%;
+}

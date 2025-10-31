@@ -7,7 +7,7 @@ import './Nav.css';
 
 
 const Nav = () => {
-    return ( <nav className='nav'>
+    return ( <nav className='nav-bar'>
 
         <img src={logo} alt=""  className='img'/>
 
