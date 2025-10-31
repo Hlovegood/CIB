@@ -7,7 +7,8 @@ import NewsSection from '../components/NewsSection';
 import InternationalSection from '../components/InternationalSection';
 import LearningCenter from './../components/LearningCenter';
 import FinanceSection from '../components/FinanceSection';
-import AwardsSection from '../components/AwardsSection'
+import AwardsSection from '../components/AwardsSection';
+import Wecare from '../components/Wecare'
 const Home = () => {
     return ( <div>
         <Nav/>
@@ -18,6 +19,7 @@ const Home = () => {
         <InternationalSection/>
         <FinanceSection/>
         <AwardsSection/>
+        <Wecare/>
     </div> );
 }
  
