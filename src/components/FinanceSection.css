@@ -1,0 +1,19 @@
+.Icon-cont{
+    display: flex;
+    flex-direction: column;
+}
+
+.FinanceSec{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+}
+
+
+.IconsSec{
+    display: flex;
+    flex-direction: row;
+    gap: 48px;
+}

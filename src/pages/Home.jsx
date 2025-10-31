@@ -6,6 +6,7 @@ import ApplySection from '../components/ApplySection';
 import NewsSection from '../components/NewsSection';
 import InternationalSection from '../components/InternationalSection';
 import LearningCenter from './../components/LearningCenter';
+import FinanceSection from '../components/FinanceSection';
 const Home = () => {
     return ( <div>
         <Nav/>
@@ -14,6 +15,7 @@ const Home = () => {
         <LearningCenter/>
         <NewsSection/>
         <InternationalSection/>
+        <FinanceSection/>
     </div> );
 }
  
