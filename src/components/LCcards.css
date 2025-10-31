@@ -1,0 +1,31 @@
+.card2{
+    display: flex;
+    flex-direction: column;
+    border-radius:8px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #19191959;
+}
+
+
+.CardIMG{border-radius: 8px 8px 0 0;}
+
+.Cardtext{display: flex;
+align-items: flex-start;
+padding: 16px;
+box-sizing: border-box;
+gap: 1.5rem;
+flex-direction: column;}
+
+
+.CardTitle{font-size: 20px;
+color: #384dd8;
+font-weight: 600;
+font-family: sans-serif;
+}
+
+.CardSub{font-size: 16px;
+color: #4c4c4c;
+font-weight: 300;
+font-family: sans-serif;
+}
