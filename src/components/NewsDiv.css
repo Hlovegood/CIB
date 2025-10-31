@@ -1,0 +1,30 @@
+.div{
+display: flex;
+padding: 31px 0;
+align-items: center;
+gap: 30px;
+flex-shrink: 0;
+font-family: Inter;
+width: 100%;
+}
+
+.up{
+    width: 40%;
+    color: #33333397;
+
+    font-size: 14.4px;
+
+}
+
+.mid{
+    width: 70%;
+    color: #1858A8;
+    font-size: 20.8px;
+}
+
+.low{
+    width: 80%;   
+    color: #33333397;
+
+}
+

@@ -7,6 +7,7 @@ import Visa from '../assets/Visa Icon.png'
 import CIB from '../assets/CIB Icon.png'
 import Loan from '../assets/Loan Icon.png'
 import OrangeTitle from './OrangeTitle';
+import SubTitle from './SubTitle';
 const ApplySection = () => {
     return ( <div className='container'>
     <div className='apply-cont'>
@@ -23,9 +24,7 @@ const ApplySection = () => {
 
             <div>
 
-            <p>
-                Apply Now
-            </p>
+            <SubTitle name1= 'Apply Now'/>
 
 
             <OrangeTitle title = ' Apply online now for cards and loans with ease!'/>
