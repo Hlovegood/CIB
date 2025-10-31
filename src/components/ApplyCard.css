@@ -1,0 +1,19 @@
+.card{
+    display: flex;
+width: 279.99px;
+padding: 32px;
+align-items: flex-start;
+gap: 30px;
+flex-shrink: 0;
+border-radius: 6px;
+border-top: 1px solid rgba(231, 231, 231, 0.60);
+background: #FFF;
+box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.10);
+justify-content: center;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    color: #1858A8;
+    font-weight: 700;
+    font-family: Inter;
+}
